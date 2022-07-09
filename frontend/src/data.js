@@ -13,7 +13,7 @@ export default{
 
         {
             _id:'2',
-            name:'jeep',
+            name:'Jeep',
             category:'Suv car',
             image:'./images/jeep.jpg',
             price:18712,
