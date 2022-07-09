@@ -89,8 +89,10 @@ footer{
 }
 
 .product img{
-    max-height: 26rem;
-    max-width: 22rem;
+   /* max-height: 26rem;
+    max-width: 22rem;*/
+    height: 20rem;
+    width:30rem;
     margin-top: 0.1rem;
 }
 
